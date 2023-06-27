@@ -29,4 +29,4 @@ O exemplo de uso fornecido chama a função encrypt_decrypt_file com o nome do a
 Esse exemplo pode ser personalizado para testar diferentes arquivos, chaves e modos de operação.
 Lembre-se de substituir 'nome_arquivo.txt' pelo nome do arquivo de entrada desejado e 'chave_secreta' pela chave de criptografia apropriada.
 
-Após a execução do script, você terá um arquivo de saída criptografado ou decriptografado com o sufixo "_crypto.txt". Você pode comparar o arquivo decriptografado com o arquivo original usando a ferramenta "diff" para verificar se a operação foi realizada corretamente.
+Após a execução do script, você terá um arquivo de saída criptografado ou decriptografado com o sufixo "_crypto.txt". 
