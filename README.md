@@ -1,5 +1,6 @@
 # Seg.Sistemas
- Neste código a função encrypt_decrypt_file recebe três parâmetros: 
+ Neste código é implementado a cifra de Vernam que realiza uma operação XOR bit a bit para criptografar um arquivo de texto.
+ A função encrypt_decrypt_file recebe três parâmetros: 
  file_name (nome do arquivo), 
  key (chave para criptografia/descriptografia) e mode (modo de operação, que pode ser 'encrypt' ou 'decrypt').
 A função começa verificando se o modo fornecido é válido, ou seja, se é 'encrypt' ou 'decrypt'. 
